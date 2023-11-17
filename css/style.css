@@ -1,0 +1,29 @@
+.row1 {
+    background-color: black;
+    color: white;
+}
+.row2 {
+    background-color: red;
+    height: 5px;
+}
+.estilo1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    color: #d6bfbf;
+}
+.row3 {
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
+.row4 {
+    background-color: black;
+    height: 2px;
+}
+.row5 {
+    background-color: white;
+
+}
+body {
+    background-color: gray;
+}
